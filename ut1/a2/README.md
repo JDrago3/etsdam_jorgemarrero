@@ -1,16 +1,20 @@
 # Tortilla de papas  
 
-Hoy haremos una ** Tortilla de papas. **  
+Hoy haremos una **Tortilla de papas.  
+  
+'Tortilla de papas para toda la familia.'
 
-### *  Ingredientes: *  
+### *Ingredientes: *  
+
 - 6 Huevos
 - 5 Papas grandes
 - 1/2 Cebolla
 - Manojo perejil  
+
+![tortilla casera](img/ingredientes%20para%20tortilla%20de%20patatas.jpg "Tortilla de papas")
   
-![tortilla casera](C:\Users\Usuario\Documents\1º DAM 25-26\Prueba ETS\etsdam_jorgemarrero\ut1\a2\img\ingredientes para tortilla de patatas.jpg "Tortilla de papas")
-  
-### * Preparación: *  
+### *Preparación:*  
+
   
 1. Calentar el aceite minetras vamos cortando las papas y la cebolla en dados.
 2. Una vez caliente el aceite y esté todo cortado. Añadimos las papas y la cebolla dentro del aceite hirviendo y dejamos que se pochen sin freirse.
@@ -20,7 +24,7 @@ Hoy haremos una ** Tortilla de papas. **
 (ojo!: cuidado con no verte el aceite dentro), la sal y el perejil. Una vez todo junto se revuelve.
 6. Queda verter toda la mezcla en una sartén a fuego bajo y dejar cocinar por ambos lados al gusto.  
   
-[Enlace Tortilla](https://www.youtube.com/watch?v=i7yyMbQkEhc)
+[Enlace Tortilla de papas casera](https://www.youtube.com/watch?v=i7yyMbQkEhc)
   
 
-
+> No se puede hacer tortilla sin romper algunos huevos. - Refranero español

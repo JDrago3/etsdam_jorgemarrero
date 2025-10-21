@@ -59,7 +59,7 @@ Pondremos a prueba todo lo aprendido hasta ahora en la clase de Entornos de desa
     - Segundo merge con conflictos.
 8. Arreglamos el merge con conflicto y terminamos con un add . y commit.
 9. Borramos rama después del merge y listamos como ha quedado nuestra main.
-
+![captura de la línea](img/captura.png)
 > ***IMPORTANTE:*** si estamos capturando una terminal no hace falta capturar todo el escritorio y es importante que se vea el nombre de usuario.
 
 Si encontramos dificultades a la hora de realizar algún paso debemos explicar esas dificultades, que pasos hemos seguido para resolverla y los resultados obtenidos.
